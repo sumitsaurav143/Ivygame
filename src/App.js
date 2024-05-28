@@ -72,7 +72,7 @@ function App() {
   return (
     <div className="App">
       <div className="Header">
-        <h1>IVYgi GUESSING GAME</h1>
+        <h1>IVY GUESSING GAME</h1>
       </div>
 
       <div>
