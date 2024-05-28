@@ -1,38 +1,103 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App{
+  background-color: bisque;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Header{
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.GameMainDiv{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: row;
+  height: 46vw;
+  color: antiquewhite;
+  background-color:  rgb(239, 81, 28);
+  border: 2px solid black;
+}
+
+.GameInstruction{
+  background-color: rgb(78, 48, 2);
+  height: 320x;
+  padding: 5px;
+}
+.GamePonitInstruction{
+  background-color: brown;
+  width: 160px;
+  height: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border: 2px solid  rgb(239, 81, 28);
+}
+.GameDiv1{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  background-color:black;
+  height: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+.GameDiv2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 46vw;
+  width: 100%;
+  background-color: rgb(239, 81, 28);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Imgdiv{
+  height: 500px;
+  width: 500px;
+  background-color: aliceblue;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.Imgdiv h4{
+  color: black;
+  margin: 10px;
+}
+
+img{
+  height: 458px;
+  width: 500px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.Ansdiv{
+  padding-left: 10px;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.option{
+  height: 50px;
+  width: 300px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.option:hover{
+ background-color: rgb(111, 236, 111);
 }
