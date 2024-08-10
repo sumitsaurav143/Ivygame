@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6233d653.css",
-    "main.js": "/static/js/main.2581008d.js",
-    "static/js/453.3ad5c14a.chunk.js": "/static/js/453.3ad5c14a.chunk.js",
-    "static/media/pic5.png": "/static/media/pic5.ffbe803727b83d9b5065.png",
-    "static/media/pic1.png": "/static/media/pic1.7ddcf02ae5e06319261e.png",
-    "static/media/pic3.png": "/static/media/pic3.2d7a10652826f64044a4.png",
-    "static/media/pic2.png": "/static/media/pic2.bc2dc134665d5e7b914f.png",
-    "static/media/pic4.png": "/static/media/pic4.dd073f08933ed6feb2c2.png",
-    "index.html": "/index.html",
-    "main.6233d653.css.map": "/static/css/main.6233d653.css.map",
-    "main.2581008d.js.map": "/static/js/main.2581008d.js.map",
-    "453.3ad5c14a.chunk.js.map": "/static/js/453.3ad5c14a.chunk.js.map"
+    "main.css": "/Ivygame/static/css/main.6233d653.css",
+    "main.js": "/Ivygame/static/js/main.7db0b3e5.js",
+    "static/js/453.3ad5c14a.chunk.js": "/Ivygame/static/js/453.3ad5c14a.chunk.js",
+    "static/media/pic5.png": "/Ivygame/static/media/pic5.ffbe803727b83d9b5065.png",
+    "static/media/pic1.png": "/Ivygame/static/media/pic1.7ddcf02ae5e06319261e.png",
+    "static/media/pic3.png": "/Ivygame/static/media/pic3.2d7a10652826f64044a4.png",
+    "static/media/pic2.png": "/Ivygame/static/media/pic2.bc2dc134665d5e7b914f.png",
+    "static/media/pic4.png": "/Ivygame/static/media/pic4.dd073f08933ed6feb2c2.png",
+    "index.html": "/Ivygame/index.html",
+    "main.6233d653.css.map": "/Ivygame/static/css/main.6233d653.css.map",
+    "main.7db0b3e5.js.map": "/Ivygame/static/js/main.7db0b3e5.js.map",
+    "453.3ad5c14a.chunk.js.map": "/Ivygame/static/js/453.3ad5c14a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6233d653.css",
-    "static/js/main.2581008d.js"
+    "static/js/main.7db0b3e5.js"
   ]
 }
